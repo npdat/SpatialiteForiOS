@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/anim/abc_slide_out_top.xml"
+    }
+]

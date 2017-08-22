@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineManager.m \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineManager.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert+CoreLocation.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolyline.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCoordinate.h

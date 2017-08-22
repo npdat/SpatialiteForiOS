@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/RNSpatialite.m \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/RNSpatialite.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/sqlite3.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gaiageo.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_const.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_structs.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_core.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_mbr.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_formats.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_dynamic.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_advanced.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite/gg_xml.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/node_modules/react-native-spatialite/ios/libspatialite/include/spatialite.h \
+  ../../react-native/React/Base/RCTLog.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/dc2dev/Documents/Research/MOB/spatialite-map-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h

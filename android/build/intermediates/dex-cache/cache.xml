@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/pre-dexed/debug/classes_4cb6eff9c20f3c6357f88cffa2397d69cc7ca6d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d813e5583d4b438135fa6ab78586f2be9456ea53">
+        <dex dex="/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/pre-dexed/debug/classes_cf7ccb314c050e98440208e984bcb4447c200372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nvthuong/.android/build-cache/d0077a709781576386706355f2e65770ab936a91/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7e315a62c905a8c77b7234b7004b4abbc86b553c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/node_modules/react-native-spatialite/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b28511e40b2f2bfb09ff74fd3e6f7bf6e3dee479">
+        <dex dex="/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/pre-dexed/debug/classes_b3ede1e990ea2dfc4e0210aecce54b882c02bb3e.jar" />
+    </item>
+
+</items>

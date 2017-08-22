@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-spatialite-1.0.7">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/1816806a15be18add1a7c50651f3d90bdf4e8900/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1816806a15be18add1a7c50651f3d90bdf4e8900/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sevar83/android-spatialite/1.0.7/2cf158df8b6ee8419a4f51a8c34aa418b47f6378/android-spatialite-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

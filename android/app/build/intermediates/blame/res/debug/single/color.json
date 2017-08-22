@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/nvthuong/.android/build-cache/98ed758d86c71b1bb9d248284127eeffc474d146/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/nvthuong/.android/build-cache/98ed758d86c71b1bb9d248284127eeffc474d146/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/nvthuong/.android/build-cache/98ed758d86c71b1bb9d248284127eeffc474d146/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/nvthuong/Documents/projects/t1/spatialite-map-react-native/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/nvthuong/.android/build-cache/8045e1239b9a71d7af88522084fefaa4b3eee185/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]
